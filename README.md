@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Moksina Akter Banner" width="100%" />
+  <img src="./banner.png" alt="Moksina Akter Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Moksina Akter</h1>
@@ -20,10 +20,11 @@
 ---
 
 ### 👩‍💻 About Me
-- 💻 Passionate **Frontend & MERN Stack Developer** building responsive web apps.  
-- 🎨 Skilled in **HTML, CSS, TailwindCSS, DaisyUI, JavaScript (ES6+), React.js, React Router, Node.js, Express.js, MongoDB, Firebase**.  
-- 🖌️ Experienced in **UI/UX design** using **Figma & Adobe Illustrator**.  
-- 🌱 Love **clean, maintainable code** and continuously learning new technologies.  
+
+- 💻 Passionate **Frontend & MERN Stack Developer** building responsive web apps.
+- 🎨 Skilled in **HTML, CSS, TailwindCSS, DaisyUI, JavaScript (ES6+), React.js, React Router, Node.js, Express.js, MongoDB, Firebase**.
+- 🖌️ Experienced in **UI/UX design** using **Figma & Adobe Illustrator**.
+- 🌱 Love **clean, maintainable code** and continuously learning new technologies.
 
 ---
 
@@ -45,27 +46,32 @@
 ---
 
 ### 🌱 Currently Learning
-- ⚡ Advanced **Express.js & Backend Development**  
-- ⚡ **React.js Optimization & Performance**  
+
+- ⚡ Advanced **Express.js & Backend Development**
+- ⚡ **React.js Optimization & Performance**
 
 ---
 
 ### 💬 Ask Me About
-- 🌐 MERN Stack (React, Node, Express, MongoDB)  
-- 🎨 Frontend Design & UI/UX  
-- 🛠️ Full-stack Project Development  
+
+- 🌐 MERN Stack (React, Node, Express, MongoDB)
+- 🎨 Frontend Design & UI/UX
+- 🛠️ Full-stack Project Development
 
 ---
 
 ### 📂 Projects
-| Project | Description | Tech Stack 
-|---------|-------------|------------
-| Portfolio Website | Personal portfolio showcasing projects & skills | React.js, TailwindCSS, DaisyUI 
-| Resume Builder | Build and export resumes online | React.js, Firebase 
-| E-commerce App | Full MERN stack CRUD project | React.js, Node.js, Express, MongoDB 
+
+| Project           | Description                                     | Tech Stack                          |
+| ----------------- | ----------------------------------------------- | ----------------------------------- |
+| Portfolio Website | Personal portfolio showcasing projects & skills | React.js, TailwindCSS, DaisyUI      |
+| Resume Builder    | Build and export resumes online                 | React.js, Firebase                  |
+| E-commerce App    | Full MERN stack CRUD project                    | React.js, Node.js, Express, MongoDB |
+
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moksina-akter&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moksina-akter&theme=radical" alt="GitHub Streak" />
